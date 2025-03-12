@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://assets.onecompiler.app/43bk6c3du/43bk6aq24/b2ap3_large_library-june2021.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.navbar-brand {
+    color: #fff;
+}
+
+.book-list, .add-book-form {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    color: #000;
+}
+
+.book-list h2, .add-book-form h2 {
+    text-align: center;
+}
+
+.table {
+    color: #000;
+}
+
+.btn-primary {
+    background-color: #0056b3;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #003d82;
+}
